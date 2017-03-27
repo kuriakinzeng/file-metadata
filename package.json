@@ -1,0 +1,25 @@
+{
+  "name": "file-metadata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuriakinzeng/file-metadata.git"
+  },
+  "author": "kuriakinzeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuriakinzeng/file-metadata/issues"
+  },
+  "homepage": "https://github.com/kuriakinzeng/file-metadata#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "multer": "^1.3.0",
+    "pug": "^0.1.0"
+  }
+}
